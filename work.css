@@ -1,0 +1,23 @@
+#selector {
+  width: 200%;
+  padding: 30px 40px;
+  border: none;
+  border-radius: 10px;
+  background-color: #776790;
+}
+#Typers {
+    width: 100%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;
+}
+<div style="display: grid; grid-template-columns: repeat(3, 1fr);">
+  <form 1>...</form>
+  <form>...</form>
+  <form>...</form>
+</div>
